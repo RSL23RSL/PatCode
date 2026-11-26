@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_ver_arquivo" android:title="Ver conteúdo do arquivo" />
+    <item android:id="@+id/menu_compartilhar_texto" android:title="Compartilhar como texto" />
+    <item android:id="@+id/menu_exportar" android:title="Salvar cópia em…" />
+    <item android:id="@+id/menu_limpar" android:title="Apagar todos os registros" />
+    <item android:id="@+id/menu_sobre" android:title="Onde fica o arquivo?" />
+</menu>
